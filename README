@@ -1,7 +1,6 @@
 !!! WARNING !!!
 
-Working with timers requires a certain level of focus and attention to detail given that the smallest of changes can trigger catastrophic consequences with
-regards to the quality of the measurements.
+Working with timers requires a certain level of focus and attention to detail given that the smallest of changes can trigger catastrophic consequences with regards to the quality of the measurements.
 
 	1 - Make sure you RTFM before jumping to conclusions and making dangerous assumptions.
 	2 - Make sure to identify what you can control and how before doing anything.
